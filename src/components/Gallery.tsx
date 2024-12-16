@@ -2,7 +2,7 @@ import React from 'react';
 
 const Gallery = () => {
   const images = [
-    'https://drive.google.com/uc?export=view&id=1yRtNCm0IkffeLbgmRG7tkQ0AyXDYaVn3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    'https://drive.google.com/uc?export=view&id=1yRtNCm0IkffeLbgmRG7tkQ0AyXDYaVn3',
     'https://drive.google.com/file/d/1BGLIp3lCAijV-bwrUM9QvU6trVSXzd_Z/view?usp=drive_link?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
     'https://images.unsplash.com/photo-1503676260728-1c00da094a0b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
     'https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
